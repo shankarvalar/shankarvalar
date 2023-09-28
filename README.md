@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shankar R</h1>
 <h3 align="center">A passionate fullstack developer</h3>
-<image align="right" alt="coding" width="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwjskypcbc0iVxwduPFqMKAH-jWtNjOLxZQQ">
 - 🌱 I’m currently learning **Mongodb,Material UI**
 
 - 💬 Ask me about **Python,ReactJS**
